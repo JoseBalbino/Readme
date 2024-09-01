@@ -23,10 +23,6 @@ Si estás interesado en aprender más y comenzar a planificar tu próximo viaje,
 
 ¿Tienes ideas, sugerencias, o quieres compartir tu experiencia viajando por Estados Unidos? ¡Estamos abiertos a colaboraciones! No dudes en abrir un issue o hacer un pull request.
 
-## 📬 Contacto
-
-Si tienes alguna pregunta o necesitas más información, puedes contactarme directamente a través de [info@javierblancotech.com](mailto:info@javierblancotech.com).
-
 ---
 
 ¡Gracias por tu visita y espero que disfrutes de tu viaje a Estados Unidos tanto como yo disfruté escribir sobre ello!
